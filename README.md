@@ -12,9 +12,9 @@
 - K10 had a negative correlation with variability in instrumentalness (r = −0.12, p = 0.005).
 -  K10 correlated positively with inertia in speechiness(r = 0.09, p = 0.03).
 -  On plotting Interaction Plot, we found increase in sad songs for both the groups(No-Risk and At-Risk) during COVID-19 pandemic.
-   ![QPS_Q3_vs_Risk](./images/Interaction_Plot_QPS_Q3.jpg)
+![QPS_Q3_vs_Risk](./images/Interaction_Plot_QPS_Q3.jpg)
 -  It is observed, there is a significant increase in tenderness quality of music during COVID-19 for ‘No Risk’ group.
-   ![QPS_Q4_vs_Risk](./images/Interaction_Plot_QPS_Q4.jpg)
+       ![QPS_Q4_vs_Risk](./images/Interaction_Plot_QPS_Q4.jpg)
 - Compared to pre COVID-19 period, average number of sessions(2-hour gap between consecutive session) per user during COVID-19 decreased while number of total tracks listened to per user increased significantly. 
   
 
@@ -22,3 +22,4 @@
   [1] [Surana, A., Goyal, Y., Alluri, V. (2020) Static and Dynamic Measures of Active Music Listening as Indicators of Depression Risk. Proc. SMM20, Workshop on Speech, Music and Mind 2020, 1-5, DOI: 10.21437/SMM.2020-1]
 
 
+ 
