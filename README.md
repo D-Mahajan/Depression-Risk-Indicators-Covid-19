@@ -5,7 +5,9 @@
   We aim to unravel static and dynamic patterns existing in active listening behavior of individuals which may act as indicators of risk for depression pre and during COVID-19 pandemic,  based on the paper “Static and Dynamic Measures of Active Music Listening as Indicators of Depression Risk” [1]. 
 
 ## Methodology
+- The methodology is divided into three parts : Dataset, Feature Extraction, Statistical Testing
 - Divide users into two groups: No-Risk and At-Risk users. 
+- For in-depth methodology, refer ![Presetation][https://github.com/D-Mahajan/Depression-Risk-Indicators-Covid-19-/blob/main/Depression%20Risk%20Indicators%20Via%20Active%20Music%20Listening%20Pre%20and%20During%20COVID-19%20Pandemic%20.pdf].
 ## Analysis Outcome
 - We have observed positive correlations for K10 and number of sessions (r = 0.189, p = 0.0002), total playcount (r = 0.134, p = 0.002) and RI (r = 0.124, p = 0.005) for before COVID-19
 - We have observed positive correlations for K10 and number of sessions (r = 0.185, p = 0.0003), total playcount (r = 0.104, p = 0.024) and RI (r = 0.140, p = 0.001) for during COVID-19.
